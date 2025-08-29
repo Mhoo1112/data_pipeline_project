@@ -20,3 +20,5 @@ def load_data_to_csv(df, output_path):
         print(f"Data loaded successfully to {output_path}")
     except Exception as e:
         print(f"An error occurred while loading data: {e}")
+
+# This is a change from a teammate
